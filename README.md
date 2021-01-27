@@ -1,7 +1,7 @@
-## Jupyter Notebook Charts on Game Data Crunch Info
+##Jupyter Notebook Charts on Game Data Crunch Info
 
 
-#### Requirements
+####Requirements
 
 Python 3.7
 Jupyter Notebook
