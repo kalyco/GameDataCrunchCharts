@@ -3,5 +3,9 @@
 
 #### Requirements
 
-Python 3.7
-Jupyter Notebook
+Python 3.7  
+Jupyter Notebook  
+
+#### Local usage
+
+`jupyter notebook`
